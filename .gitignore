@@ -17,6 +17,15 @@
 *.zip
 *.tar.gz
 *.rar
+*.iml
+/.idea
+/target/
+*.settings/
+.classpath
+.project
+*.DS_Store
+*.ipr
+*.iws
+/*/target/
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+
